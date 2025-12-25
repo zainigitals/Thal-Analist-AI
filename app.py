@@ -1,4 +1,4 @@
-        import streamlit as st
+import streamlit as st
 
 # 1. Page Configuration
 st.set_page_config(page_title="Thal-Analyst AI", page_icon="🔬")
@@ -79,4 +79,4 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 st.caption("Educational tool based on Clinical Standards (HbA2 > 3.5%). Not a replacement for a Doctor.")
-                             
+                
