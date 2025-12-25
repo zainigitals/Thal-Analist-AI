@@ -1,5 +1,4 @@
 import streamlit as st
-
 # 1. Page Configuration
 st.set_page_config(page_title="Thal-Analyst AI", page_icon="🔬")
 
